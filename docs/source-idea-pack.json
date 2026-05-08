@@ -1,0 +1,38 @@
+{
+  "product": "indoor-environment-sensor-server",
+  "sourceRank": {
+    "rank": 57,
+    "tier": "P3",
+    "score": 53,
+    "domain": "IoT",
+    "ideaNo": 4,
+    "ideaName": "室内環境センサー蓄積サーバー",
+    "repositoryName": "indoor-environment-sensor-server",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "センサー実機と蓄積基盤が必要で、ソフト単体の公開価値を作りにくい。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_004_indoor-environment-sensor-server",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_004_indoor-environment-sensor-server\\idea_004_indoor-environment-sensor-server.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "indoor-environment-sensor-server",
+  "metadataIdea": "室内環境センサー蓄積サーバー",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}

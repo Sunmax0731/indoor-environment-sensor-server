@@ -1,0 +1,26 @@
+{
+  "product": "indoor-environment-sensor-server",
+  "githubRepo": "https://github.com/Sunmax0731/indoor-environment-sensor-server",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": null,
+  "prereleaseVerified": false,
+  "latestVerification": "pending-until-release-api-check",
+  "assets": [
+    "indoor-environment-sensor-server-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "assetCount": 0,
+  "manualTestStatus": "not-run",
+  "validation": {
+    "npmTest": "pending",
+    "webSmoke": "pending"
+  },
+  "gitChecks": {
+    "mainOriginClean": "pending",
+    "aheadBehind": "pending",
+    "localCodexBranches": "pending",
+    "remoteCodexBranches": "pending"
+  },
+  "releaseSequence": "release-not-created-yet"
+}
