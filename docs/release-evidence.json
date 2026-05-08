@@ -1,42 +1,59 @@
 {
-    "product":  "indoor-environment-sensor-server",
-    "githubRepo":  "https://github.com/Sunmax0731/indoor-environment-sensor-server",
-    "tag":  "v0.1.0-alpha.1",
-    "releaseUrl":  "https://github.com/Sunmax0731/indoor-environment-sensor-server/releases/tag/v0.1.0-alpha.1",
-    "prereleaseVerified":  true,
-    "latestVerification":  "verified-not-latest",
-    "assets":  [
-                   "indoor-environment-sensor-server-docs.zip",
-                   "manual-test.md",
-                   "strict-manual-test-addendum.md"
-               ],
-    "assetCount":  3,
-    "manualTestStatus":  "not-run",
-    "validation":  {
-                       "npmTest":  "passed",
-                       "webSmoke":  "passed"
-                   },
-    "gitChecks":  {
-                      "mainOriginClean":  true,
-                      "aheadBehind":  "0 0",
-                      "localCodexBranches":  [
-
-                                             ],
-                      "remoteCodexBranches":  [
-
-                                              ]
-                  },
-    "releaseSequence":  "release-created-api-verified-evidence-updated-docs-zip-regenerated-tag-pushed-assets-reuploaded",
-    "apiChecks":  {
-                      "tagName":  "v0.1.0-alpha.1",
-                      "prerelease":  true,
-                      "latestIsThisRelease":  false,
-                      "latestStatus":  "latest-api-not-this-release",
-                      "assetCount":  3,
-                      "assetNames":  [
-                                         "indoor-environment-sensor-server-docs.zip",
-                                         "manual-test.md",
-                                         "strict-manual-test-addendum.md"
-                                     ]
-                  }
+  "product": "indoor-environment-sensor-server",
+  "githubRepo": "https://github.com/Sunmax0731/indoor-environment-sensor-server",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": "https://github.com/Sunmax0731/indoor-environment-sensor-server/releases/tag/v0.1.0-alpha.1",
+  "prereleaseVerified": true,
+  "latestVerification": "verified-not-latest",
+  "assets": [
+    "indoor-environment-sensor-server-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "assetCount": 3,
+  "manualTestStatus": "not-run",
+  "validation": {
+    "npmTest": "passed",
+    "webSmoke": "passed"
+  },
+  "gitChecks": {
+    "mainOriginClean": true,
+    "aheadBehind": "0 0",
+    "localCodexBranches": [],
+    "remoteCodexBranches": []
+  },
+  "releaseSequence": "release-created-api-verified-evidence-updated-docs-zip-regenerated-tag-pushed-assets-reuploaded",
+  "apiChecks": {
+    "tagName": "v0.1.0-alpha.1",
+    "prerelease": true,
+    "latestIsThisRelease": false,
+    "latestStatus": "latest-api-not-this-release",
+    "assetCount": 3,
+    "assetNames": [
+      "indoor-environment-sensor-server-docs.zip",
+      "manual-test.md",
+      "strict-manual-test-addendum.md"
+    ]
+  },
+  "repository": "Sunmax0731/indoor-environment-sensor-server",
+  "githubUrl": "https://github.com/Sunmax0731/indoor-environment-sensor-server",
+  "prerelease": true,
+  "latest": false,
+  "platformRuntimeGate": "dist/platform-runtime-gate-result.json",
+  "platformType": "iot-simulator-mock",
+  "manualTest": "not-run-by-codex",
+  "qcdsEvaluation": {
+    "Quality": "S-",
+    "Cost": "S-",
+    "Delivery": "S-",
+    "Satisfaction": "S-",
+    "capReason": "manual-test-not-run-by-codex"
+  },
+  "github": {
+    "repo": "Sunmax0731/indoor-environment-sensor-server",
+    "url": "https://github.com/Sunmax0731/indoor-environment-sensor-server",
+    "releaseUrl": "https://github.com/Sunmax0731/indoor-environment-sensor-server/releases/tag/v0.1.0-alpha.1",
+    "prerelease": true,
+    "latest": false
+  }
 }

@@ -1,0 +1,11 @@
+{
+  "product": "indoor-environment-sensor-server",
+  "title": "室内環境センサー蓄積サーバー",
+  "domain": "IoT",
+  "ideaNo": 4,
+  "platformType": "iot-simulator-mock",
+  "expectedPublicTarget": "GitHub Release / 自宅LAN",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
